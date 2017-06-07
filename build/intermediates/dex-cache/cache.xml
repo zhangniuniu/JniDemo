@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca847d573963999698b5166a614a95daaa58d844">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1930bcdfa67e7603597a1e0a18a7422b51809ed5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d465241974dbd8aaf4fdb1184e2d1589581caa7c/classes.dex" />
+    </item>
+
+</items>
