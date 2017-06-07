@@ -12,12 +12,12 @@
         "source": "/Users/zhangyong/.android/build-cache/e0e5bb5cf0961387cf17f25cf0384b2bddb7145b/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/zhangyong/.android/build-cache/e0e5bb5cf0961387cf17f25cf0384b2bddb7145b/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/zhangyong/.android/build-cache/e0e5bb5cf0961387cf17f25cf0384b2bddb7145b/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/zhangyong/.android/build-cache/e0e5bb5cf0961387cf17f25cf0384b2bddb7145b/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",

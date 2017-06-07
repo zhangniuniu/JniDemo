@@ -2,22 +2,94 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/2c6bf10c738f294c01c4b5fce7e3444a2c8b0baf/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="ca847d573963999698b5166a614a95daaa58d844">
-        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1930bcdfa67e7603597a1e0a18a7422b51809ed5/classes.dex" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_325bb2fa23d7a62c7e00a18e1ee99a800b6c51d9.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/zhangyong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d465241974dbd8aaf4fdb1184e2d1589581caa7c/classes.dex" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ade0e6af73fec9ff9e26b66d8b2f228e10c7fed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/87f1ecacd7366418eabaefc7e6859c759df50d93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_63bd32691b6c0eefa218d3b2453156eaf87c206b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/0d73270e5d1ea9f549d8c36a845611a5e3d52cb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_687c168a410f5d1e4e27334d3840648f6304be94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/c3e65b8db5e5ec5dafacbb72efc5fc57ffaa8c95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_8b320d255daa538bf95da09f11391898df2b7c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/2972c1e6320b24f2c35acd49b1853525921df7e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_0d09c2c2237fcbcd916340e6e63d68d3df6ad219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/6d9782e496ef987281d508d2fd1dff2a26ece3e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_54e0461f555043d876637a0b472c04bea3fe394b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/1492234e35839ce444cb41a38ec4a837948730d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_9cbad63233d58ff4f8d7393996477c99fe09dcfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/91da63c49c45802beadbac2c90b75661cd574a27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_336ebe0319188e156cbcccdea0fb1136480bfae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangyong/.android/build-cache/e0e5bb5cf0961387cf17f25cf0384b2bddb7145b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/zhangyong/Documents/GitHub/JniDemo2/app/build/intermediates/pre-dexed/debug/classes_36a5075e84fd638969430047954fd7796fdba3bd.jar" />
     </item>
 
 </items>

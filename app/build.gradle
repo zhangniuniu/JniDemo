@@ -12,9 +12,9 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
 
-        ndk{
+        ndk {
             moduleName 'hello'
-            abiFilter "armeabi"
+            abiFilters "armeabi", "armeabi-v7a", "arm64-v8a", "x86"
         }
     }
     buildTypes {
